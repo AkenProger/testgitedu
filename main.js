@@ -1,7 +1,9 @@
-function get() {
+
+
+function addNewNumber() {
 
 }
 
-function addNewNumber() {
-    
+function deductNmber()  {
+
 }
